@@ -1,0 +1,3 @@
+1. Urban cities have the most drivers per city
+2. Rural cities have the highest average fares
+3. Urban cities have the most rides per city
